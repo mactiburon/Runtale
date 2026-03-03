@@ -1,7 +1,4 @@
-/descargas/*.msi
-  Content-Disposition: attachment
-  Content-Type: application/octet-stream
-
 /descargas/*.apk
   Content-Disposition: attachment
   Content-Type: application/vnd.android.package-archive
+
